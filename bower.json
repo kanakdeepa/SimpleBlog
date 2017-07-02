@@ -1,0 +1,21 @@
+{
+  "name": "SimpleBlog",
+  "homepage": "https://github.com/kanakdeepa/SimpleBlog",
+  "authors": [
+    "Kanakdeepa <kanakdeepa.pradhan91@gmail.com>"
+  ],
+  "description": "Simple Blog",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7"
+  }
+}
